@@ -1,0 +1,6 @@
+# See https://pip.pypa.io/en/stable/reference/pip_install/#requirements-file-format
+
+Flask
+iso8601
+datetime
+simplejson
